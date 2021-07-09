@@ -7,7 +7,8 @@ const About = () => {
         <h1>How to use this site...</h1>
         <h3>Looking for answers?</h3>
         <p>Click below for a quick overview of how Tarot Readings work.</p>
-        <Button color={"#40bf4f"} text={"Read More"} />
+        <Button color={"#40bf4f"} text={"Ten Card Spread"} />
+        <Button color={"#40bf4f"} text={"Past Present Future"} />
       </div>
     </section>
   );
